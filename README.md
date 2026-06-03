@@ -26,6 +26,7 @@ Manual testing project for SauceDemo (Swag Labs):
 
 ## 📫 Contact
 Open to Junior / Intern QA opportunities
+
 Email: anastasiabeus@gmail.com  
 LinkedIn: https://www.linkedin.com/in/nastassia-beus
 <!--
