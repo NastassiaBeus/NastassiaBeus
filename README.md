@@ -5,30 +5,31 @@ Junior QA Engineer with hands-on experience in manual testing, test design, and 
 ## 🔍 About Me
 - 6 years of experience in technical systems and documentation  
 - Strong analytical skills and attention to detail  
-- Transitioning into software testing  
+- Currently building experience in software testing  
 
 ## 🛠 Skills
 - Test Cases & Checklists  
 - Bug Reporting (Jira)  
 - API Testing (Postman)  
-- SQL (basic queries)  
+- SQL (basic)  
 - Git & GitHub  
 - Basic Automation (Java, TestNG)  
 
 ## 📂 QA Project
-Manual testing project for SauceDemo (Swag Labs):
-🔗 https://github.com/NastassiaBeus/swag-labs-qa-project
+Manual testing project for SauceDemo (Swag Labs web application):  
+🔗 [Swag Labs QA Project](https://github.com/NastassiaBeus/swag-labs-qa-project)
 
 - Created Test Plan, Test Cases, Checklist  
 - Performed functional and exploratory testing  
-- Reported bugs with severity and priority  
+- Identified and documented defects with severity and priority  
+- Identified multiple functional, UI, and validation defects  
 - Covered login, products, cart and checkout flows  
 
 ## 📫 Contact
-Open to Junior / Intern QA opportunities
+Open to Junior / Intern QA opportunities  
 
 Email: anastasiabeus@gmail.com  
-LinkedIn: https://www.linkedin.com/in/nastassia-beus
+LinkedIn: [nastassia-beus](https://www.linkedin.com/in/nastassia-beus)
 <!--
 **NastassiaBeus/NastassiaBeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
