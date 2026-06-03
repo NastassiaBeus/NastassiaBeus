@@ -26,7 +26,8 @@ Manual testing project for SauceDemo (Swag Labs):
 
 ## 📫 Contact
 Open to Junior / Intern QA opportunities
-
+Email: anastasiabeus@gmail.com  
+LinkedIn: https://www.linkedin.com/in/nastassia-beus
 <!--
 **NastassiaBeus/NastassiaBeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
